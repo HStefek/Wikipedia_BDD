@@ -1,0 +1,718 @@
+1536009810876	geckodriver	INFO	geckodriver 0.21.0
+1536009810890	geckodriver	INFO	Listening on 127.0.0.1:59057
+1536009813896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hrvoj\\AppData\\Local\\Temp\\rust_mozprofile.zA3y5tS4ICfw"
+Unable to read VR Path Registry from C:\Users\hrvoj\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hrvoj\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hrvoj\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hrvoj\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hrvoj\AppData\Local\openvr\openvrpaths.vrpath
+1536009819156	Marionette	INFO	Listening on port 59065
+1536009819414	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 16108, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+send/recv
+
+c_channel_win.cc, line 346
+[GPU 15948
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Channel error: cannot send/recv
+
+istration for id: telemetry_modules_ping
+[GPU 34
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion for id: telemetry_modules_ping
+[GPU 32
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5380, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+id: telemetry_modules_ping
+[GPU 1980, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9168, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1424, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t send/recv
+
+send/recv
+
+rce://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+GeckoDriver.prototype.quit()@driver.js:3282
+despatch()@server.js:294
+execute()@server.js:268
+onPacket/<()@server.js:243
+onPacket()@server.js:242
+_onJSONObjectReady/<()@transport.js:500
+[Child 13800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13756, Chrome_ChildT[Parent 668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2180, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5400, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2412, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536172476737	geckodriver	INFO	geckodriver 0.21.0
+1536172476787	geckodriver	INFO	Listening on 127.0.0.1:39031
+1536172477774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N7c6XckVcoaA"
+1536172482807	Marionette	INFO	Listening on port 38489
+1536172482896	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11711, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536172605968	geckodriver	INFO	geckodriver 0.21.0
+1536172605977	geckodriver	INFO	Listening on 127.0.0.1:52023
+1536172606979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C6lSpjD30NvP"
+1536172611288	Marionette	INFO	Listening on port 38099
+1536172611392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536172657850	geckodriver	INFO	geckodriver 0.21.0
+1536172657860	geckodriver	INFO	Listening on 127.0.0.1:39967
+1536172658863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1ijeX4pGvQsr"
+1536172663196	Marionette	INFO	Listening on port 38277
+1536172663283	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12214, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 12020, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536172771579	geckodriver	INFO	geckodriver 0.21.0
+1536172771590	geckodriver	INFO	Listening on 127.0.0.1:56953
+1536172772592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3dTMSmVkdq4k"
+1536172776928	Marionette	INFO	Listening on port 35357
+1536172777034	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536172803463	geckodriver	INFO	geckodriver 0.21.0
+1536172803471	geckodriver	INFO	Listening on 127.0.0.1:58113
+1536172804476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jpxdbxCnp7va"
+1536172809181	Marionette	INFO	Listening on port 41345
+1536172809194	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536172986079	geckodriver	INFO	geckodriver 0.21.0
+1536172986087	geckodriver	INFO	Listening on 127.0.0.1:37821
+1536172987091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OZH7JXSWXPnt"
+1536172991308	Marionette	INFO	Listening on port 37483
+1536172991425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536173038386	geckodriver	INFO	geckodriver 0.21.0
+1536173038397	geckodriver	INFO	Listening on 127.0.0.1:36275
+1536173039399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UqzzVVVjXoTe"
+[Parent 12877, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173044837	Marionette	INFO	Listening on port 44323
+1536173044933	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13068, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173089257	geckodriver	INFO	geckodriver 0.21.0
+1536173089266	geckodriver	INFO	Listening on 127.0.0.1:48419
+1536173090270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Es8ChqdNfBwK"
+1536173094522	Marionette	INFO	Listening on port 38641
+1536173094594	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173133604	geckodriver	INFO	geckodriver 0.21.0
+1536173133613	geckodriver	INFO	Listening on 127.0.0.1:39273
+1536173134617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qHsfxzSuLVTQ"
+1536173138971	Marionette	INFO	Listening on port 34093
+1536173139035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536173216146	geckodriver	INFO	geckodriver 0.21.0
+1536173216155	geckodriver	INFO	Listening on 127.0.0.1:53621
+1536173217159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w8eJp7ni53Uk"
+1536173221533	Marionette	INFO	Listening on port 43301
+1536173221598	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13689, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173248999	geckodriver	INFO	geckodriver 0.21.0
+1536173249009	geckodriver	INFO	Listening on 127.0.0.1:52317
+1536173250011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gr0NAY8Qmt1o"
+1536173254379	Marionette	INFO	Listening on port 46613
+1536173254435	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173443950	geckodriver	INFO	geckodriver 0.21.0
+1536173443960	geckodriver	INFO	Listening on 127.0.0.1:33703
+1536173444963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kvpZy29MxZKF"
+1536173449520	Marionette	INFO	Listening on port 34613
+1536173449587	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173662765	geckodriver	INFO	geckodriver 0.21.0
+1536173662776	geckodriver	INFO	Listening on 127.0.0.1:42939
+1536173663778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F4R5TS8YhQwI"
+1536173668268	Marionette	INFO	Listening on port 42665
+1536173668295	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173742126	geckodriver	INFO	geckodriver 0.21.0
+1536173742135	geckodriver	INFO	Listening on 127.0.0.1:39153
+1536173743139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OLiEFVEYPHNo"
+1536173747524	Marionette	INFO	Listening on port 37879
+1536173747572	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173892433	geckodriver	INFO	geckodriver 0.21.0
+1536173892443	geckodriver	INFO	Listening on 127.0.0.1:45253
+1536173893445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0l9dmEZNJduz"
+1536173897866	Marionette	INFO	Listening on port 35773
+1536173897961	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536173978589	geckodriver	INFO	geckodriver 0.21.0
+1536173978599	geckodriver	INFO	Listening on 127.0.0.1:49981
+1536173979601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HkSYoECxX6ZE"
+1536173984176	Marionette	INFO	Listening on port 44789
+1536173984237	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536174131172	geckodriver	INFO	geckodriver 0.21.0
+1536174131181	geckodriver	INFO	Listening on 127.0.0.1:56379
+1536174132183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KdeEzaBHbfDG"
+1536174136957	Marionette	INFO	Listening on port 36699
+1536174137004	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536174230637	geckodriver	INFO	geckodriver 0.21.0
+1536174230645	geckodriver	INFO	Listening on 127.0.0.1:32821
+1536174231646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1XlNdxWxb4bU"
+1536174236266	Marionette	INFO	Listening on port 46355
+1536174236371	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15680): dconf-WARNING **: 21:04:27.003: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1536174341036	geckodriver	INFO	geckodriver 0.21.0
+1536174341045	geckodriver	INFO	Listening on 127.0.0.1:41811
+1536174342049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DmSmjZbUBBg7"
+1536174347035	Marionette	INFO	Listening on port 46755
+1536174347086	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536174380425	geckodriver	INFO	geckodriver 0.21.0
+1536174380435	geckodriver	INFO	Listening on 127.0.0.1:39509
+1536174381433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wiZU3409QQbs"
+1536174385762	Marionette	INFO	Listening on port 43713
+1536174385864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1536174444969	geckodriver	INFO	geckodriver 0.21.0
+1536174444978	geckodriver	INFO	Listening on 127.0.0.1:44025
+1536174445981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ab6lA3ylMn0y"
+1536174450409	Marionette	INFO	Listening on port 42139
+1536174450496	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536174566601	geckodriver	INFO	geckodriver 0.21.0
+1536174566611	geckodriver	INFO	Listening on 127.0.0.1:57877
+1536174567613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.faAIVMBeGplO"
+1536174571967	Marionette	INFO	Listening on port 37119
+1536174572053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536175167850	geckodriver	INFO	geckodriver 0.21.0
+1536175167859	geckodriver	INFO	Listening on 127.0.0.1:40279
+1536175168858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.netvsWo7aZZC"
+1536175173564	Marionette	INFO	Listening on port 46137
+1536175173590	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1536175230364	geckodriver	INFO	geckodriver 0.21.0
+1536175230376	geckodriver	INFO	Listening on 127.0.0.1:55741
+1536175231375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lutd8Y4DrrDj"
+1536175237292	Marionette	INFO	Listening on port 39579
+1536175237317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536176033733	geckodriver	INFO	geckodriver 0.21.0
+1536176033741	geckodriver	INFO	Listening on 127.0.0.1:55339
+1536176034744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9YdSvyzXiTUZ"
+1536176039847	Marionette	INFO	Listening on port 45421
+1536176039903	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17675, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17594, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536176229668	geckodriver	INFO	geckodriver 0.21.0
+1536176229678	geckodriver	INFO	Listening on 127.0.0.1:57147
+1536176230677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.McRIUXJUaklw"
+1536176237390	Marionette	INFO	Listening on port 39615
+1536176237414	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17846, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536326262859	geckodriver	INFO	geckodriver 0.21.0
+1536326262925	geckodriver	INFO	Listening on 127.0.0.1:41023
+1536326263827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XtBqikGUxd6j"
+
+(firefox:7405): Gtk-WARNING **: 15:17:45.611: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7405): Gtk-WARNING **: 15:17:45.611: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536326269298	Marionette	INFO	Listening on port 34967
+1536326269350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536326269525	Marionette	DEBUG	[2147483649] Frame script loaded
+1536326269541	Marionette	DEBUG	[2147483649] Frame script registered
+1536326270302	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536326270885	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536326275899	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536326275933	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536326276237	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536326278040	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536326278155	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536326278156	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536326278686	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326279140	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326279263	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326279524	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326279525	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326279728	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326280119	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326280385	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326282330	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326282331	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326282660	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326283671	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326284576	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326284787	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326284788	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326284953	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536326285394	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536326285414	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536326285479	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536326285777	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536326285799	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536326285959	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536326286410	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536326286411	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536326286829	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python
+1536326287398	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python
+1536326287874	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python
+1536326287924	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python
+1536326287928	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python
+1536326289069	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536326289478	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536326289502	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536326289698	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536326289699	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536326289940	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326290369	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326290548	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326290761	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326290761	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326290953	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326291306	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326291452	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326293271	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326293273	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536326293453	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326294787	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326296391	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326296729	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326296730	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326296860	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326297279	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326297335	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326297652	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326297653	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326297833	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326298872	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326299302	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326300006	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326300007	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326300148	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326300804	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326300830	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326301244	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326301380	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326301810	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326302760	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326303025	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326303026	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536326303165	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326303497	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326303596	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326304003	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326304004	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326304159	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326304821	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326304922	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326305606	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326305607	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536326305760	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326306150	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536326306160	Marionette	INFO	Stopped listening on port 34967
+1536661114620	geckodriver	INFO	geckodriver 0.21.0
+1536661114691	geckodriver	INFO	Listening on 127.0.0.1:34451
+1536661115654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5IfdazQjly3y"
+
+(firefox:14397): Gtk-WARNING **: 12:18:37.577: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14397): Gtk-WARNING **: 12:18:37.577: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536661123424	Marionette	INFO	Listening on port 45357
+1536661123507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536661123591	Marionette	DEBUG	[2147483649] Frame script loaded
+1536661123593	Marionette	DEBUG	[2147483649] Frame script registered
+1536661128240	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536661128690	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536661133412	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536661133455	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536661133735	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536661135134	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536661135286	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536661135287	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536661135803	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661136254	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661136375	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661136599	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661136604	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661136804	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661137085	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661137269	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661139287	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661139288	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661139586	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661140611	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661141478	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661141712	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661141719	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661141861	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661142280	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661142298	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661142360	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661142609	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536661142629	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536661142746	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536661143129	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536661143132	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536661143424	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python
+1536661143845	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python
+1536661144302	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python
+1536661144359	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python
+1536661144361	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python
+1536661145323	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661145983	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661146089	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661146306	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661146520	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661146845	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661146953	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661147243	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661147246	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661147380	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+
+(/usr/lib/firefox/firefox:14497): dconf-WARNING **: 12:19:07.684: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1536661147849	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661148212	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661150347	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661150349	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661150542	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661151577	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661153221	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661153620	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661153624	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661153764	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661154121	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661154173	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661154541	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661154546	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661154660	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661155356	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661155811	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661156531	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661156535	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661156644	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661157304	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661157326	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661157595	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661157596	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661157773	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661158112	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661159099	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661159359	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661159363	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661159503	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661159935	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661160034	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661160385	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661160388	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661160576	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661161189	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661161314	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661162117	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661162124	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661162251	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661162592	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661162600	Marionette	INFO	Stopped listening on port 45357
+[Parent 14397, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536661734796	geckodriver	INFO	geckodriver 0.21.0
+1536661734803	geckodriver	INFO	Listening on 127.0.0.1:49325
+1536661735804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vUNtlozgPLjt"
+
+(firefox:14814): Gtk-WARNING **: 12:28:58.282: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14814): Gtk-WARNING **: 12:28:58.283: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536661742389	Marionette	INFO	Listening on port 45503
+1536661742465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536661742586	Marionette	DEBUG	[2147483649] Frame script loaded
+1536661742590	Marionette	DEBUG	[2147483649] Frame script registered
+1536661743005	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536661744200	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536661747227	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536661747259	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536661748015	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536661778183	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536661778245	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536661778246	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536661778630	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536661778761	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536661778845	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536661779192	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536661779192	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536661779535	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python
+1536661780009	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python
+1536661780550	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python
+1536661780616	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python
+1536661780616	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python
+1536661781100	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661782069	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661782170	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661782386	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661782386	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661782736	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661783179	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661783229	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661783455	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661783456	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661783837	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661784068	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661784185	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661785956	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661785957	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661786317	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661787061	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661788803	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661789125	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661789126	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661789467	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661789840	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661789908	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661790195	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661790196	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661790542	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661791185	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661791545	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661792400	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661792401	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661792750	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661793091	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661793105	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661793455	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661793456	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661793806	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661794105	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661795371	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661795678	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661795679	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661796019	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661796294	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661796344	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661796717	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661796718	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661797132	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661797806	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661797980	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661798753	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661798755	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661799090	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661799494	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661799504	Marionette	INFO	Stopped listening on port 45503
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1536661856040	geckodriver	INFO	geckodriver 0.21.0
+1536661856050	geckodriver	INFO	Listening on 127.0.0.1:34513
+1536661857048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4V8fpWaLE9WT"
+
+(firefox:18014): Gtk-WARNING **: 12:30:59.861: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18014): Gtk-WARNING **: 12:30:59.862: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536661866023	Marionette	INFO	Listening on port 38391
+1536661866140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536661866338	Marionette	DEBUG	[2147483649] Frame script loaded
+1536661866353	Marionette	DEBUG	[2147483649] Frame script registered
+1536661866870	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536661868722	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536661872778	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536661872811	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536661873071	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536661874810	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536661874922	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536661874923	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536661875353	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661875741	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661875845	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661876059	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661876060	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661876367	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661877126	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661877389	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661879100	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661879101	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661879370	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661880829	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661881921	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661882193	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661882194	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661882382	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661883086	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661883120	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661883179	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536661883425	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536661883448	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536661883585	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536661884022	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536661884022	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536661884336	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python
+1536661884782	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python
+1536661885498	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python
+1536661885580	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python
+1536661885582	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python
+1536661886663	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661887484	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661887656	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661887838	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536661888090	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661888700	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661888922	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661889141	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661889142	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661889351	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661889817	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661890015	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661892038	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661892039	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536661892225	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661893533	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661895710	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661896033	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661896033	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661896199	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661896593	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661896660	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661896964	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661896965	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661897232	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661898066	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661898539	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661899280	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661899281	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661899513	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661900277	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661900313	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661900773	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661900925	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661901297	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661902671	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661903115	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661903117	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536661903311	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661903869	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661903986	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661904340	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661904340	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661904528	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661905372	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661905591	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661906374	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661906374	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536661906465	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661906833	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536661906839	Marionette	INFO	Stopped listening on port 38391
+1536858246291	geckodriver	INFO	geckodriver 0.21.0
+1536858246354	geckodriver	INFO	Listening on 127.0.0.1:40277
+1536858247292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7XZyULJlhSta"
+
+(firefox:14423): Gtk-WARNING **: 19:04:09.290: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14423): Gtk-WARNING **: 19:04:09.290: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536858253171	Marionette	INFO	Listening on port 39821
+1536858253232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536858253364	Marionette	DEBUG	[2147483649] Frame script loaded
+1536858253370	Marionette	DEBUG	[2147483649] Frame script registered
+1536858255386	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536858255822	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536858260034	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536858260102	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536858260414	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536858262007	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536858262138	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536858262140	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536858262673	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858263272	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858263355	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858263717	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858263722	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858264057	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858264863	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858265095	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858267012	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858267014	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858267750	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858268793	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858269805	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858270171	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858270177	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858270361	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536858270842	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536858270871	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536858270957	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Odjava&returnto=Glavna+stranica
+1536858271278	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.wikipedia.org/
+1536858271301	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.wikipedia.org/
+1536858271469	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.wikipedia.org/
+1536858271927	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.wikipedia.org/
+1536858271930	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.wikipedia.org/
+1536858272316	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python
+1536858273019	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python
+1536858273717	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python
+1536858273792	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python
+1536858273797	Marionette	DEBUG	[2147483649] Received DOM event unload for https://en.wikipedia.org/wiki/Python
+1536858275228	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536858276025	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536858276154	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536858276418	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://en.wikipedia.org/wiki/Python_(programming_language)
+1536858276637	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858277248	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858277349	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858277645	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858277650	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858277849	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+
+(/usr/lib/firefox/firefox:14532): dconf-WARNING **: 19:04:37.882: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1536858278366	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858278725	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858281335	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858281337	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/w/index.php?title=Posebno:Prijava&returnto=Glavna+stranica
+1536858281604	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858282948	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858284853	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858285222	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858285229	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Glavna_stranica
+1536858285790	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536858285809	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536858285900	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536858286350	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536858286359	Marionette	DEBUG	[2147483649] Received DOM event unload for https://hr.wikipedia.org/wiki/Suradnik:Matkom32
+1536858286650	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+1536858287545	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://hr.wikipedia.org/w/index.php?title=Suradnik:Matkom32&action=edit
+[Parent 14423, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536858308815	Marionette	INFO	Stopped listening on port 39821
+1537791926203	geckodriver	INFO	geckodriver 0.18.0
+1537791926211	geckodriver	INFO	Listening on 127.0.0.1:60113
+1537791927473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox-esr:7041): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:7041): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1537791932743	Marionette	INFO	Listening on port 33761
+1537791932805	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
